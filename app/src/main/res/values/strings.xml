@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">App Livros SQLite</string>
+    <string name="title_activity_principal">Biblioteca</string>
+</resources>

@@ -1,0 +1,3 @@
+CHANGED,/home/icarosolon/Documents/pratica-de-ensino-VIII/ExSQLite/app/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/br/com/icaro/projetos/exsqlite/AddLivroActivity$override.class
+CHANGED,/home/icarosolon/Documents/pratica-de-ensino-VIII/ExSQLite/app/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/com/android/tools/fd/runtime/AppPatchesLoaderImpl.class
+CHANGED,/home/icarosolon/Documents/pratica-de-ensino-VIII/ExSQLite/app/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/br/com/icaro/projetos/exsqlite/AddLivroActivity$1$override.class

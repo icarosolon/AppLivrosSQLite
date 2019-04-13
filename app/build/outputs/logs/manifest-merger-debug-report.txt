@@ -1,0 +1,179 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\icarosolon\Documents\AndroidStudioProjects\ExSQLite\app\src\main\AndroidManifest.xml:2:1-28:12
+INJECTED from C:\Users\icarosolon\Documents\AndroidStudioProjects\ExSQLite\app\src\main\AndroidManifest.xml:2:1-28:12
+INJECTED from C:\Users\icarosolon\Documents\AndroidStudioProjects\ExSQLite\app\src\main\AndroidManifest.xml:2:1-28:12
+INJECTED from C:\Users\icarosolon\Documents\AndroidStudioProjects\ExSQLite\app\src\main\AndroidManifest.xml:2:1-28:12
+MERGED from [com.android.support:design:25.3.1] C:\Users\icarosolon\.gradle\caches\transforms-1\files-1.1\design-25.3.1.aar\4a143a5df7f31715558f250414ba76bb\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\icarosolon\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.3.1.aar\5128e17a9b70760c9647897b26d78b9b\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\icarosolon\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.3.1.aar\4fa9b8fb1d993302b85238357a954e97\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\icarosolon\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.3.1.aar\d251c202f9146ef820bcb53b5a6440b9\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:recyclerview-v7:25.3.1] C:\Users\icarosolon\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-25.3.1.aar\d0473da99915e2fe7fbd533d857f3742\AndroidManifest.xml:17:1-26:12
+MERGED from [com.android.support:transition:25.3.1] C:\Users\icarosolon\.gradle\caches\transforms-1\files-1.1\transition-25.3.1.aar\90d01c50ec7c3647b4e9443d6e425875\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\icarosolon\.gradle\caches\transforms-1\files-1.1\support-v4-25.3.1.aar\ae0d2f02d2b5efa2f49d53c8079be036\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\icarosolon\.gradle\caches\transforms-1\files-1.1\support-fragment-25.3.1.aar\ce029d429307fdc49b77c726266e92a1\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\icarosolon\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.3.1.aar\06a058f0cad95fffdbe0afb9772c2ffb\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\icarosolon\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.3.1.aar\1270bf460282495ce13beed196251e48\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\icarosolon\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.3.1.aar\df564b92ca1cea1b661097fb289ab374\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\icarosolon\.gradle\caches\transforms-1\files-1.1\support-compat-25.3.1.aar\004ac009c2b00d2c4f2910864b983243\AndroidManifest.xml:17:1-31:12
+INJECTED from C:\Users\icarosolon\Documents\AndroidStudioProjects\ExSQLite\app\src\main\AndroidManifest.xml:2:1-28:12
+INJECTED from C:\Users\icarosolon\Documents\AndroidStudioProjects\ExSQLite\app\src\main\AndroidManifest.xml:2:1-28:12
+INJECTED from C:\Users\icarosolon\Documents\AndroidStudioProjects\ExSQLite\app\src\main\AndroidManifest.xml:2:1-28:12
+	package
+		ADDED from C:\Users\icarosolon\Documents\AndroidStudioProjects\ExSQLite\app\src\main\AndroidManifest.xml:4:5-45
+		INJECTED from C:\Users\icarosolon\Documents\AndroidStudioProjects\ExSQLite\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\icarosolon\Documents\AndroidStudioProjects\ExSQLite\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\icarosolon\Documents\AndroidStudioProjects\ExSQLite\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\icarosolon\Documents\AndroidStudioProjects\ExSQLite\app\src\main\AndroidManifest.xml:2:1-28:12
+		INJECTED from C:\Users\icarosolon\Documents\AndroidStudioProjects\ExSQLite\app\src\main\AndroidManifest.xml
+	xmlns:tools
+		ADDED from C:\Users\icarosolon\Documents\AndroidStudioProjects\ExSQLite\app\src\main\AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from C:\Users\icarosolon\Documents\AndroidStudioProjects\ExSQLite\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\icarosolon\Documents\AndroidStudioProjects\ExSQLite\app\src\main\AndroidManifest.xml:2:1-28:12
+		INJECTED from C:\Users\icarosolon\Documents\AndroidStudioProjects\ExSQLite\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\icarosolon\Documents\AndroidStudioProjects\ExSQLite\app\src\main\AndroidManifest.xml:2:11-69
+application
+ADDED from C:\Users\icarosolon\Documents\AndroidStudioProjects\ExSQLite\app\src\main\AndroidManifest.xml:6:5-26:19
+MERGED from [com.android.support:design:25.3.1] C:\Users\icarosolon\.gradle\caches\transforms-1\files-1.1\design-25.3.1.aar\4a143a5df7f31715558f250414ba76bb\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:design:25.3.1] C:\Users\icarosolon\.gradle\caches\transforms-1\files-1.1\design-25.3.1.aar\4a143a5df7f31715558f250414ba76bb\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\icarosolon\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.3.1.aar\5128e17a9b70760c9647897b26d78b9b\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\icarosolon\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.3.1.aar\5128e17a9b70760c9647897b26d78b9b\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\icarosolon\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.3.1.aar\4fa9b8fb1d993302b85238357a954e97\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\icarosolon\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.3.1.aar\4fa9b8fb1d993302b85238357a954e97\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\icarosolon\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.3.1.aar\d251c202f9146ef820bcb53b5a6440b9\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\icarosolon\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.3.1.aar\d251c202f9146ef820bcb53b5a6440b9\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:transition:25.3.1] C:\Users\icarosolon\.gradle\caches\transforms-1\files-1.1\transition-25.3.1.aar\90d01c50ec7c3647b4e9443d6e425875\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:transition:25.3.1] C:\Users\icarosolon\.gradle\caches\transforms-1\files-1.1\transition-25.3.1.aar\90d01c50ec7c3647b4e9443d6e425875\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\icarosolon\.gradle\caches\transforms-1\files-1.1\support-v4-25.3.1.aar\ae0d2f02d2b5efa2f49d53c8079be036\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\icarosolon\.gradle\caches\transforms-1\files-1.1\support-v4-25.3.1.aar\ae0d2f02d2b5efa2f49d53c8079be036\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\icarosolon\.gradle\caches\transforms-1\files-1.1\support-fragment-25.3.1.aar\ce029d429307fdc49b77c726266e92a1\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\icarosolon\.gradle\caches\transforms-1\files-1.1\support-fragment-25.3.1.aar\ce029d429307fdc49b77c726266e92a1\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\icarosolon\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.3.1.aar\06a058f0cad95fffdbe0afb9772c2ffb\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\icarosolon\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.3.1.aar\06a058f0cad95fffdbe0afb9772c2ffb\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\icarosolon\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.3.1.aar\1270bf460282495ce13beed196251e48\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\icarosolon\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.3.1.aar\1270bf460282495ce13beed196251e48\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\icarosolon\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.3.1.aar\df564b92ca1cea1b661097fb289ab374\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\icarosolon\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.3.1.aar\df564b92ca1cea1b661097fb289ab374\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\icarosolon\.gradle\caches\transforms-1\files-1.1\support-compat-25.3.1.aar\004ac009c2b00d2c4f2910864b983243\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\icarosolon\.gradle\caches\transforms-1\files-1.1\support-compat-25.3.1.aar\004ac009c2b00d2c4f2910864b983243\AndroidManifest.xml:29:5-20
+	android:supportsRtl
+		ADDED from C:\Users\icarosolon\Documents\AndroidStudioProjects\ExSQLite\app\src\main\AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from C:\Users\icarosolon\Documents\AndroidStudioProjects\ExSQLite\app\src\main\AndroidManifest.xml:9:9-41
+	tools:ignore
+		ADDED from C:\Users\icarosolon\Documents\AndroidStudioProjects\ExSQLite\app\src\main\AndroidManifest.xml:12:9-48
+	android:icon
+		ADDED from C:\Users\icarosolon\Documents\AndroidStudioProjects\ExSQLite\app\src\main\AndroidManifest.xml:8:9-43
+	android:allowBackup
+		ADDED from C:\Users\icarosolon\Documents\AndroidStudioProjects\ExSQLite\app\src\main\AndroidManifest.xml:7:9-35
+	android:theme
+		ADDED from C:\Users\icarosolon\Documents\AndroidStudioProjects\ExSQLite\app\src\main\AndroidManifest.xml:11:9-40
+activity#br.com.icaro.projetos.exsqlite.MainActivity
+ADDED from C:\Users\icarosolon\Documents\AndroidStudioProjects\ExSQLite\app\src\main\AndroidManifest.xml:13:9-50
+	android:name
+		ADDED from C:\Users\icarosolon\Documents\AndroidStudioProjects\ExSQLite\app\src\main\AndroidManifest.xml:13:19-47
+activity#br.com.icaro.projetos.exsqlite.AddLivroActivity
+ADDED from C:\Users\icarosolon\Documents\AndroidStudioProjects\ExSQLite\app\src\main\AndroidManifest.xml:14:9-133
+	android:parentActivityName
+		ADDED from C:\Users\icarosolon\Documents\AndroidStudioProjects\ExSQLite\app\src\main\AndroidManifest.xml:14:84-131
+	android:label
+		ADDED from C:\Users\icarosolon\Documents\AndroidStudioProjects\ExSQLite\app\src\main\AndroidManifest.xml:14:52-83
+	android:name
+		ADDED from C:\Users\icarosolon\Documents\AndroidStudioProjects\ExSQLite\app\src\main\AndroidManifest.xml:14:19-51
+activity#br.com.icaro.projetos.exsqlite.PrincipalActivity
+ADDED from C:\Users\icarosolon\Documents\AndroidStudioProjects\ExSQLite\app\src\main\AndroidManifest.xml:15:9-24:20
+	android:label
+		ADDED from C:\Users\icarosolon\Documents\AndroidStudioProjects\ExSQLite\app\src\main\AndroidManifest.xml:17:13-61
+	android:theme
+		ADDED from C:\Users\icarosolon\Documents\AndroidStudioProjects\ExSQLite\app\src\main\AndroidManifest.xml:18:13-56
+	android:name
+		ADDED from C:\Users\icarosolon\Documents\AndroidStudioProjects\ExSQLite\app\src\main\AndroidManifest.xml:16:13-46
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\icarosolon\Documents\AndroidStudioProjects\ExSQLite\app\src\main\AndroidManifest.xml:19:13-23:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\icarosolon\Documents\AndroidStudioProjects\ExSQLite\app\src\main\AndroidManifest.xml:20:17-69
+	android:name
+		ADDED from C:\Users\icarosolon\Documents\AndroidStudioProjects\ExSQLite\app\src\main\AndroidManifest.xml:20:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\icarosolon\Documents\AndroidStudioProjects\ExSQLite\app\src\main\AndroidManifest.xml:22:17-77
+	android:name
+		ADDED from C:\Users\icarosolon\Documents\AndroidStudioProjects\ExSQLite\app\src\main\AndroidManifest.xml:22:27-74
+activity#br.com.icaro.projetos.exsqlite.EditActivity
+ADDED from C:\Users\icarosolon\Documents\AndroidStudioProjects\ExSQLite\app\src\main\AndroidManifest.xml:25:9-126
+	android:parentActivityName
+		ADDED from C:\Users\icarosolon\Documents\AndroidStudioProjects\ExSQLite\app\src\main\AndroidManifest.xml:25:77-124
+	android:label
+		ADDED from C:\Users\icarosolon\Documents\AndroidStudioProjects\ExSQLite\app\src\main\AndroidManifest.xml:25:48-76
+	android:name
+		ADDED from C:\Users\icarosolon\Documents\AndroidStudioProjects\ExSQLite\app\src\main\AndroidManifest.xml:25:19-47
+uses-sdk
+INJECTED from C:\Users\icarosolon\Documents\AndroidStudioProjects\ExSQLite\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\icarosolon\Documents\AndroidStudioProjects\ExSQLite\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\icarosolon\Documents\AndroidStudioProjects\ExSQLite\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:design:25.3.1] C:\Users\icarosolon\.gradle\caches\transforms-1\files-1.1\design-25.3.1.aar\4a143a5df7f31715558f250414ba76bb\AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:design:25.3.1] C:\Users\icarosolon\.gradle\caches\transforms-1\files-1.1\design-25.3.1.aar\4a143a5df7f31715558f250414ba76bb\AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\icarosolon\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.3.1.aar\5128e17a9b70760c9647897b26d78b9b\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\icarosolon\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.3.1.aar\5128e17a9b70760c9647897b26d78b9b\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\icarosolon\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.3.1.aar\4fa9b8fb1d993302b85238357a954e97\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\icarosolon\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.3.1.aar\4fa9b8fb1d993302b85238357a954e97\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\icarosolon\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.3.1.aar\d251c202f9146ef820bcb53b5a6440b9\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\icarosolon\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.3.1.aar\d251c202f9146ef820bcb53b5a6440b9\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:25.3.1] C:\Users\icarosolon\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-25.3.1.aar\d0473da99915e2fe7fbd533d857f3742\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:25.3.1] C:\Users\icarosolon\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-25.3.1.aar\d0473da99915e2fe7fbd533d857f3742\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:transition:25.3.1] C:\Users\icarosolon\.gradle\caches\transforms-1\files-1.1\transition-25.3.1.aar\90d01c50ec7c3647b4e9443d6e425875\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:25.3.1] C:\Users\icarosolon\.gradle\caches\transforms-1\files-1.1\transition-25.3.1.aar\90d01c50ec7c3647b4e9443d6e425875\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\icarosolon\.gradle\caches\transforms-1\files-1.1\support-v4-25.3.1.aar\ae0d2f02d2b5efa2f49d53c8079be036\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\icarosolon\.gradle\caches\transforms-1\files-1.1\support-v4-25.3.1.aar\ae0d2f02d2b5efa2f49d53c8079be036\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\icarosolon\.gradle\caches\transforms-1\files-1.1\support-fragment-25.3.1.aar\ce029d429307fdc49b77c726266e92a1\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\icarosolon\.gradle\caches\transforms-1\files-1.1\support-fragment-25.3.1.aar\ce029d429307fdc49b77c726266e92a1\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\icarosolon\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.3.1.aar\06a058f0cad95fffdbe0afb9772c2ffb\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\icarosolon\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.3.1.aar\06a058f0cad95fffdbe0afb9772c2ffb\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\icarosolon\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.3.1.aar\1270bf460282495ce13beed196251e48\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\icarosolon\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.3.1.aar\1270bf460282495ce13beed196251e48\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\icarosolon\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.3.1.aar\df564b92ca1cea1b661097fb289ab374\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\icarosolon\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.3.1.aar\df564b92ca1cea1b661097fb289ab374\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\icarosolon\.gradle\caches\transforms-1\files-1.1\support-compat-25.3.1.aar\004ac009c2b00d2c4f2910864b983243\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\icarosolon\.gradle\caches\transforms-1\files-1.1\support-compat-25.3.1.aar\004ac009c2b00d2c4f2910864b983243\AndroidManifest.xml:21:5-23:58
+INJECTED from C:\Users\icarosolon\Documents\AndroidStudioProjects\ExSQLite\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\icarosolon\Documents\AndroidStudioProjects\ExSQLite\app\src\main\AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:design:25.3.1] C:\Users\icarosolon\.gradle\caches\transforms-1\files-1.1\design-25.3.1.aar\4a143a5df7f31715558f250414ba76bb\AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		INJECTED from C:\Users\icarosolon\Documents\AndroidStudioProjects\ExSQLite\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\icarosolon\Documents\AndroidStudioProjects\ExSQLite\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\icarosolon\Documents\AndroidStudioProjects\ExSQLite\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\icarosolon\Documents\AndroidStudioProjects\ExSQLite\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\icarosolon\Documents\AndroidStudioProjects\ExSQLite\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\icarosolon\Documents\AndroidStudioProjects\ExSQLite\app\src\main\AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:design:25.3.1] C:\Users\icarosolon\.gradle\caches\transforms-1\files-1.1\design-25.3.1.aar\4a143a5df7f31715558f250414ba76bb\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\icarosolon\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.3.1.aar\5128e17a9b70760c9647897b26d78b9b\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\icarosolon\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.3.1.aar\5128e17a9b70760c9647897b26d78b9b\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\icarosolon\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.3.1.aar\4fa9b8fb1d993302b85238357a954e97\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\icarosolon\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.3.1.aar\4fa9b8fb1d993302b85238357a954e97\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\icarosolon\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.3.1.aar\d251c202f9146ef820bcb53b5a6440b9\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\icarosolon\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.3.1.aar\d251c202f9146ef820bcb53b5a6440b9\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:recyclerview-v7:25.3.1] C:\Users\icarosolon\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-25.3.1.aar\d0473da99915e2fe7fbd533d857f3742\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:recyclerview-v7:25.3.1] C:\Users\icarosolon\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-25.3.1.aar\d0473da99915e2fe7fbd533d857f3742\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:transition:25.3.1] C:\Users\icarosolon\.gradle\caches\transforms-1\files-1.1\transition-25.3.1.aar\90d01c50ec7c3647b4e9443d6e425875\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:transition:25.3.1] C:\Users\icarosolon\.gradle\caches\transforms-1\files-1.1\transition-25.3.1.aar\90d01c50ec7c3647b4e9443d6e425875\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\icarosolon\.gradle\caches\transforms-1\files-1.1\support-v4-25.3.1.aar\ae0d2f02d2b5efa2f49d53c8079be036\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\icarosolon\.gradle\caches\transforms-1\files-1.1\support-v4-25.3.1.aar\ae0d2f02d2b5efa2f49d53c8079be036\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\icarosolon\.gradle\caches\transforms-1\files-1.1\support-fragment-25.3.1.aar\ce029d429307fdc49b77c726266e92a1\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\icarosolon\.gradle\caches\transforms-1\files-1.1\support-fragment-25.3.1.aar\ce029d429307fdc49b77c726266e92a1\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\icarosolon\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.3.1.aar\06a058f0cad95fffdbe0afb9772c2ffb\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\icarosolon\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.3.1.aar\06a058f0cad95fffdbe0afb9772c2ffb\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\icarosolon\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.3.1.aar\1270bf460282495ce13beed196251e48\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\icarosolon\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.3.1.aar\1270bf460282495ce13beed196251e48\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\icarosolon\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.3.1.aar\df564b92ca1cea1b661097fb289ab374\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\icarosolon\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.3.1.aar\df564b92ca1cea1b661097fb289ab374\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\icarosolon\.gradle\caches\transforms-1\files-1.1\support-compat-25.3.1.aar\004ac009c2b00d2c4f2910864b983243\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\icarosolon\.gradle\caches\transforms-1\files-1.1\support-compat-25.3.1.aar\004ac009c2b00d2c4f2910864b983243\AndroidManifest.xml:25:5-27:34
+	android:value
+		ADDED from [com.android.support:design:25.3.1] C:\Users\icarosolon\.gradle\caches\transforms-1\files-1.1\design-25.3.1.aar\4a143a5df7f31715558f250414ba76bb\AndroidManifest.xml:27:9-31
+	android:name
+		ADDED from [com.android.support:design:25.3.1] C:\Users\icarosolon\.gradle\caches\transforms-1\files-1.1\design-25.3.1.aar\4a143a5df7f31715558f250414ba76bb\AndroidManifest.xml:26:9-47
